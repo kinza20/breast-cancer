@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "templates"
+		},
+		{
+			"path": "static"
+		},
+		{
+			"path": "../marble-granite-website"
+		}
+	],
+	"settings": {}
+}
